@@ -1,0 +1,18 @@
+{
+    "name": "radwa-nabil/php-unit-test",
+    "description": "unit test labs",
+    "require": {
+        "phpunit/phpunit": "^10.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "RadwaNabil\\PhpUnitTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "radwa nabil",
+            "email": "radwaismail444@gmail.com"
+        }
+    ]
+}
